@@ -7,6 +7,6 @@ public class AppBean
         this.text = text;
     } 
     public String sayHello() {
-        return "Hello, testtest blablbalbt" + text;
+        return "Hello, testtest blablbalb testt" + text;
     } 
 }
