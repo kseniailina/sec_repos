@@ -10,6 +10,6 @@ public class App
     {
         System.out.println(new AppBean("Maven").sayHello());
         //add new row to test
-        System.out.println( "It's me!" );
+        System.out.println( "It's me! test" );
     }
 }
