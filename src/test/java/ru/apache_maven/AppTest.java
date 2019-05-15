@@ -18,11 +18,11 @@ public class AppTest extends TestCase
     /**
      * Rigorous Test :-)
      */
-    /**@Test
+    @Test
     public void shouldAnswerWithTrue()
     {
         assertTrue( true );
-    }*/
+    }
 	
 	public AppTest( String testName ){
         super( testName );
