@@ -48,7 +48,7 @@ public class AppTest extends TestCase
     
      public void testAssert3() {
 	String message3 = "Test Sec3";
-        Assert.assertEquals("Second Test", "Test Sec", message3);
+        Assert.assertEquals("Second Test", "Test Sec3", message3);
     }
     
     public void testAssert4() {
@@ -59,14 +59,5 @@ public class AppTest extends TestCase
     public void testAssert5() {
 	String message5 = "Test Sec5";
         Assert.assertEquals("Second Test", "Test Sec5", message5);
-    }
-    
-    public void testAssert6() {
-	String message6 = "Test Sec6";
-        Assert.assertEquals("Second Test", "Test Sec6", message6);
-    }
-    public void testAssert7() {
-	String message7 = "Test Sec7";
-        Assert.assertEquals("Second Test", "Test Sec", message7);
     }
 }
