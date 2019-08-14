@@ -36,12 +36,13 @@ public class AppTest extends TestCase
         assertTrue( true );
     }
     
-    public void investigationAssert() {
-    	Assert.assertEquals("Test investigations", "privet1", "privet2");
-    }
-    
     public void testAssert() {
 	String message = new AppBean("Maven 2").sayHello();
         Assert.assertEquals("Test Hello Machine", "Hello Maven 2", message);
+    }
+    
+    public void testAssert2() {
+	String message2 = "Test Sec2";
+        Assert.assertEquals("Second Test", "Test Sec", message2);
     }
 }
