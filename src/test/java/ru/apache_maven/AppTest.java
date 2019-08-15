@@ -88,4 +88,9 @@ public class AppTest extends TestCase
         String message11 = "Test Sec11";
         Assert.assertEquals("Second Test", "Test Sec11", message11);
     }
+
+    public void testAssert12() {
+        String message12 = "Test Sec12";
+        Assert.assertEquals("Second Test", "Test Sec", message12);
+    }
 }
