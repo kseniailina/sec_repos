@@ -21,12 +21,12 @@ public class PrimeService_SecondTestClass extends TestCase
         assertTrue( true );
     }
 	
-	public AppTest( String testName ){
+    public PrimeService_SecondTestClass( String testName ){
         super( testName );
     }
 
     public static Test suite(){
-        return new TestSuite( AppTest.class );
+        return new TestSuite( PrimeService_SecondTestClass.class );
     }
 
     public void testApp(){
