@@ -15,7 +15,24 @@ import junit.framework.TestSuite;
  */
 public class PrimeService_SecondTestClass extends TestCase
 {
+    //@Test
+    public void shouldAnswerWithTrue()
+    {
+        assertTrue( true );
+    }
+	
+	public AppTest( String testName ){
+        super( testName );
+    }
 
+    public static Test suite(){
+        return new TestSuite( AppTest.class );
+    }
+
+    public void testApp(){
+        assertTrue( true );
+    }
+    
   public void FailingTest() {
 	String message2 = "Test Sec2";
         Assert.assertEquals("Second Test", "Test Sec2", message2);
