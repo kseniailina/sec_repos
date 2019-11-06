@@ -131,18 +131,34 @@ public class AppTest extends TestCase
     }
     public void testAssert22() {
         String message22 = "Test Sec22";
-        Assert.assertEquals("Second Test", "Test Sec22", message22);
+        Assert.assertEquals("Second Test", "Test Sec2", message22);
     }
     public void testAssert23() {
     String message23 = "Test Sec23";
-    Assert.assertEquals("Second Test", "Test Sec23", message23);
+    Assert.assertEquals("Second Test", "Test Sec2", message23);
     }
     public void testAssert24() {
         String message24 = "Test Sec24";
-        Assert.assertEquals("Second Test", "Test Sec24", message24);
+        Assert.assertEquals("Second Test", "Test Sec2", message24);
     }
     public void testAssert25() {
         String message25 = "Test Sec25";
-        Assert.assertEquals("Second Test", "Test Sec2dd5", message25);
+        Assert.assertEquals("Second Test", "Test Sec2", message25);
+    }
+    public void testAssert26() {
+        String message26 = "Test Sec26";
+        Assert.assertEquals("Second Test", "Test Sec26", message26);
+    }
+    public void testAssert27() {
+        String message27 = "Test Sec27";
+        Assert.assertEquals("Second Test", "Test Sec26", message27);
+    }
+    public void FailingTest() {
+        String message27 = "Test Sec27";
+        Assert.assertEquals("Second Test", "Test Sec2", message27);
+    }
+    public void ReturnFalseGivenValueOf3() {
+        String message28 = "Test Sec28";
+        Assert.assertEquals("Second Test", "Test Sec26", message28);
     }
 }
