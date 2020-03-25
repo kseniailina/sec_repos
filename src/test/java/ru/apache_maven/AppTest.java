@@ -95,27 +95,27 @@ public class AppTest extends TestCase
     }
     public void testAssert13() {
         String message13 = "Test Sec13";
-        Assert.assertEquals("Second Test", "Test Sec131", message13);
+        Assert.assertEquals("Second Test", "Test Sec13", message13);
     }
     public void testAssert14() {
         String message14 = "Test Sec14";
-        Assert.assertEquals("Second Test", "Test Sec141", message14);
+        Assert.assertEquals("Second Test", "Test Sec14", message14);
     }
     public void testAssert15() {
         String message15 = "Test Sec15";
-        Assert.assertEquals("Second Test", "Test Sec151", message15);
+        Assert.assertEquals("Second Test", "Test Sec15", message15);
     }
     public void testAssert16() {
         String message16 = "Test Sec16";
-        Assert.assertEquals("Second Test", "Test Sec161", message16);
+        Assert.assertEquals("Second Test", "Test Sec16", message16);
     }
     public void testAssert17() {
         String message17 = "Test Sec17";
-        Assert.assertEquals("Second Test", "Test Sec171", message17);
+        Assert.assertEquals("Second Test", "Test Sec17", message17);
     }
     public void testAssert18() {
         String message18 = "Test Sec18";
-        Assert.assertEquals("Second Test", "Test Sec181", message18);
+        Assert.assertEquals("Second Test", "Test Sec18", message18);
     }
     public void testAssert19() {
         String message19 = "Test Sec19";
@@ -123,7 +123,7 @@ public class AppTest extends TestCase
     }
     public void testAssert20() {
         String message20 = "Test Sec20";
-        Assert.assertEquals("Second Test", "Test Sec201", message20);
+        Assert.assertEquals("Second Test", "Test Sec20", message20);
     }
     public void testAssert21() {
         String message21 = "Test Sec21";
@@ -135,19 +135,19 @@ public class AppTest extends TestCase
     }
     public void testAssert23() {
     String message23 = "Test Sec23";
-    Assert.assertEquals("Second Test", "Test Sec231", message23);
+    Assert.assertEquals("Second Test", "Test Sec23", message23);
     }
     public void testAssert24() {
         String message24 = "Test Sec24";
-        Assert.assertEquals("Second Test", "Test Sec241", message24);
+        Assert.assertEquals("Second Test", "Test Sec24", message24);
     }
     public void testAssert25() {
         String message25 = "Test Sec25";
-        Assert.assertEquals("Second Test", "Test Sec251", message25);
+        Assert.assertEquals("Second Test", "Test Sec25", message25);
     }
     public void testAssert26() {
         String message26 = "Test Sec26";
-        Assert.assertEquals("Second Test", "Test Sec261", message26);
+        Assert.assertEquals("Second Test", "Test Sec26", message26);
     }
     public void testAssert27() {
         String message27 = "Test Sec27";
