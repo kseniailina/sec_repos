@@ -127,23 +127,23 @@ public class AppTest extends TestCase
     }
     public void testAssert21() {
         String message21 = "Test Sec21";
-        Assert.assertEquals("Second Test", "Test Sec211", message21);
+        Assert.assertEquals("Second Test", "Test Sec21", message21);
     }
     public void testAssert22() {
         String message22 = "Test Sec22";
-        Assert.assertEquals("Second Test", "Test Sec221", message22);
+        Assert.assertEquals("Second Test", "Test Sec22", message22);
     }
     public void testAssert23() {
     String message23 = "Test Sec23";
-    Assert.assertEquals("Second Test", "Test Sec231", message23);
+    Assert.assertEquals("Second Test", "Test Sec23", message23);
     }
     public void testAssert24() {
         String message24 = "Test Sec24";
-        Assert.assertEquals("Second Test", "Test Sec241", message24);
+        Assert.assertEquals("Second Test", "Test Sec24", message24);
     }
     public void testAssert25() {
         String message25 = "Test Sec25";
-        Assert.assertEquals("Second Test", "Test Sec251", message25);
+        Assert.assertEquals("Second Test", "Test Sec25", message25);
     }
     public void testAssert26() {
         String message26 = "Test Sec26";
