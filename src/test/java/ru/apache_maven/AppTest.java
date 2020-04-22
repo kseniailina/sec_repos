@@ -159,7 +159,7 @@ public class AppTest extends TestCase
     }
     public void ReturnFalseGivenValueOf3() {
         String message28 = "Test Sec21";
-        Assert.assertEquals("Second Test1", "Test Sec28", message28);
+        Assert.assertEquals("Second Test1", "Test Sec281", message28);
     }
     //
 }
