@@ -151,7 +151,7 @@ public class AppTest extends TestCase
     }
     public void testAssert27() {
         String message27 = "Test Sec27";
-        Assert.assertEquals("Second Test", "Test Sec271", message27);
+        Assert.assertEquals("Second Test", "Test Sec27", message27);
     }
     public void FailingTest() {
         String message27 = "Test Sec27";
