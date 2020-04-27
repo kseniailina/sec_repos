@@ -20,5 +20,3 @@ dss
 jkjds
 овлввоы
 dsds
-dksjdk
-dsdsdsd
