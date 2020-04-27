@@ -21,5 +21,3 @@ jkjds
 овлввоы
 dsds
 dependency
-dsds
-hjh
