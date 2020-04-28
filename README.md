@@ -22,4 +22,3 @@ jkjds
 dsds
 dependency
 dsds
-рор
