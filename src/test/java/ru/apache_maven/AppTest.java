@@ -33,7 +33,7 @@ public class AppTest extends TestCase
     }
 
     public void testApp(){
-        assertTrue( true );
+        assertTrue( true )
     }
     
     public void testAssert() {
