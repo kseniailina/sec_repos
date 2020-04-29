@@ -30,7 +30,7 @@ public class PrimeService_SecondTestClass extends TestCase
     }
 
     public void testApp(){
-        assertTrue( true )
+        assertTrue( true );
     }
     
   public void FailingTest() {
