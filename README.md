@@ -18,8 +18,4 @@ ssds
 dss
 вывыв
 jkjds
-овлввоы
-dsds
-dependency
-dsds
 cxc
