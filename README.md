@@ -14,5 +14,3 @@ jckxj
 jdksd
 dsjds
 dsd
-ssds
-dss
