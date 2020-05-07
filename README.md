@@ -10,7 +10,3 @@ dsd
 dsdsd
 dsds
 fdfd
-jckxj
-jdksd
-dsjds
-jh
