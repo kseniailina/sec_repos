@@ -18,5 +18,3 @@ ssds
 dss
 вывыв
 jkjds
-cxc
-xcx
