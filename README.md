@@ -16,5 +16,3 @@ dsjds
 dsd
 ssds
 dss
-вывыв
-jkjds
