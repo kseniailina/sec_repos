@@ -13,6 +13,3 @@ fdfd
 jckxj
 jdksd
 dsjds
-dsd
-dsds
-fdfd
