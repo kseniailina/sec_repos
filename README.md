@@ -21,4 +21,3 @@ jira vetka
 fd
 dsds
 dsdsdsd
-вывывы
